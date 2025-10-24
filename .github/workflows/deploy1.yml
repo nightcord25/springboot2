@@ -38,7 +38,7 @@ jobs:
           tags: nightcord25/springboot2-web3:latest
           platforms: linux/amd64
 
-      # 5. 서버 배포 경로 변수 설정6
+      # 5. 서버 배포 경로 변수 설정7
       - name: Set deploy variables
         id: vars
         run: |
